@@ -1,0 +1,28 @@
+{
+  "name": "kalijabotti",
+  "version": "0.0.1",
+  "description": "TiTen 25v kalija botti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tittury/tite25v.git"
+  },
+  "keywords": [
+    "KALIJA",
+    "PSST",
+    "TITE"
+  ],
+  "author": "cez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tittury/tite25v/issues"
+  },
+  "homepage": "https://github.com/tittury/tite25v#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "irc": "^0.5.0"
+  }
+}
